@@ -18,8 +18,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarstelfox" /> 
 
 ## My GitHub Data
-<img src="https://activity-graph.herokuapp.com/graph?username=jarstelfox&theme=minimal" />
-<img src="https://github-readme-stats.vercel.app/api?username=jarstelfox" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarstelfox&theme=vue" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarstelfox" />
